@@ -1,0 +1,68 @@
+primary_name: "Van Duc Cuong"
+secondary_name: ""
+navbar_name: "Van Duc Cuong"
+
+positions:
+- name: AI Researcher, VinMotion
+- name: Undergraduate Student, Hanoi University of Science and Technology (HUST)
+
+
+email: "duccuongtoan@gmail.com"
+cv_link: /cuongvd_CV.pdf
+gscholar: XLe9Z4sAAAAJ
+github: DucCuong12
+# twitter: your_twitter_id
+linkedin: van-duc-cuong-29a5202ab
+orcid: 0009-0008-6700-1477
+
+short_bio_text_justify: true
+short_bio: >-
+  <p>
+    I am an undergraduate student in the Talented Program in Computer Science at
+    <a href="https://hust.edu.vn/" target="_blank">Hanoi University of Science and Technology (HUST)</a>,
+    and an AI Researcher at VinMotion.
+    I previously worked as an AI Resident Researcher at FPT Software AI Center.
+  </p>
+  <p>
+    My research interests include Large Language Models, Vision-Language-Action models,
+    Embodied AI, Humanoid Robotics, Evolutionary Computation, Automated Algorithm Design,
+    Combinatorial Optimization, and AI for Software Engineering.
+  </p>
+
+portrait_url: /assets/images/photos/portrait.jpg
+# portrait_caption: optional
+
+education:
+- name: Hanoi University of Science and Technology (HUST)
+  position: >-
+    B.Sc. in Computer Science, Talented Program <br/>
+    GPA: 3.82/4.00
+  date: Oct. 2022 – Present
+- name: Phan Boi Chau Specialized High School
+  position: Specialized Program in Mathematics
+  date: 2019 – 2022
+
+experience:
+- name: VinMotion
+  position: AI Researcher
+  date: 2025 – Present
+- name: BKAI Laboratory, HUST
+  position: Undergraduate Research Assistant
+  date: 2023 – Present
+- name: FPT Software AI Center
+  position: AI Resident Researcher
+  date: 2025 – 2026
+
+awards:
+- name: Best Presentation Award, Hanoi University of Science and Technology
+  date: 2026
+- name: Academic Achievement Scholarship (Type A), HUST
+  date: 2024 – 2025
+- name: Third Prize, University-Level Scientific Research, HUST
+  date: 2024
+- name: Third Prize, ChatGPT-Solver Competition (AI for SAT Solving), HUST
+  date: 2023
+- name: Third Prize, Vietnamese Mathematical Olympiad (National Level)
+  date: 2022
+- name: Second Prize, Informatics Excellence Competition, Nghe An Province
+  date: 2022

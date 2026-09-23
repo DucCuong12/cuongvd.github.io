@@ -1,0 +1,14 @@
+# Site settings
+title: Van Duc Cuong
+baseurl: "/cuongvd.github.io"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-email-protect
+
+timezone: Asia/Ho_Chi_Minh
+
+collections:
+  - publications
+  - news
