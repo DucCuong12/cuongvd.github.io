@@ -1,11 +1,11 @@
 # Site settings
 title: Van Duc Cuong
-baseurl: "/cuongvd.github.io"
+baseurl: ""
+url: "https://duccuong12.github.io"
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-email-protect
+plugins: []
 
 timezone: Asia/Ho_Chi_Minh
 
